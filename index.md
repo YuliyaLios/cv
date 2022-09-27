@@ -1,17 +1,16 @@
 ---
-layout: cv
 title: Yulia Kuznietsova, Technical Writer
 
 ---
 <a href="/images/yuliK_profile.jpg"><img src="/images/yuliK_profile.jpg" alt="My Pretty Face.jpg" style="width: 150px; float: right; padding-left: 15px;"></a>
 
-<script language="JavaScript">user = 'yuli.kuznietsova';site = 'gmail.com';document.write('<a href=\"mailto:' + user + '@' + site + '\">');document.write('Email me: ' + user + '@' + site + '</a>');</script>
-
-<a href="https://www.linkedin.com/in/yulios/">Lnkdn URL</a> 
-
 # Julia Kuzńecowa
 
 Technical Writer, Technical Communicator, DocOps
+
+<a href="https://www.linkedin.com/in/yulios/">Lnkdn URL</a>
+
+<script language="JavaScript">user = 'yuli.kuznietsova';site = 'gmail.com';document.write('<a href=\"mailto:' + user + '@' + site + '\">');document.write('Email me: ' + user + '@' + site + '</a>');</script>
 
 ## Currently
 
