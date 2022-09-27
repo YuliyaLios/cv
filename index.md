@@ -1,6 +1,6 @@
-<img src="images/yuliK_profile.jpg" alt="My Pretty Face.jpg" style="width: 100px; float: right; padding-left: 15px;">
+Technical writer, <a href="https://savelife.in.ua/en/">Ukrainian and proud 🇺🇦</a>, based in Poznań, Poland 🇵🇱.
 
-<a href="https://www.linkedin.com/in/yulios/">Lnkdn</a> || <a href="https://github.com/YuliyaLios">GitHub</a> || <script language="JavaScript">user = 'yuli.kuznietsova';site = 'gmail.com';document.write('Email me: ');document.write('<a href=\"mailto:' + user + '@' + site + '\">');document.write(user + '@' + site + '</a>');</script>
+<a href="https://www.linkedin.com/in/yulios/">Lnkdn</a> / <a href="https://github.com/YuliyaLios">GitHub</a> / <script language="JavaScript">user = 'yuli.kuznietsova';site = 'gmail.com';document.write('Email me: ');document.write('<a href=\"mailto:' + user +origin '@' + site + '\">');document.write(user + '@' + site + '</a>');</script>
 
 ## Currently
 
@@ -44,7 +44,7 @@ A technical writer (user guides, developer docs, API specifications) with the en
 
 ### Engineer Estimator
 
-> Sep 2009 – Nov 2012 (*3 yrs 3 mos*) & Sep 2004 – Apr 2006 (*1 yr 8 mos*)
+> Sep 2009 – Nov 2012 & Sep 2004 – Apr 2006 (*more than 5 yrs*)
 
 * Wrote and checked expertise reports.
 * Calculated and verified civil building projects' estimates.
@@ -67,16 +67,20 @@ Children's Leadership Mentoring, Civil Rights and Social Action
 
 ## Languages
 
-* English</br>
+* English
+
 Professional proficiency
 
-* Polish</br>
-Elementary proficiency (*but learning right now*)
+* Polish
 
-* Ukrainian</br>
+Elementary proficiency (*but learning now*)
+
+* Ukrainian
+
 Native proficiency
 
-* Russian</br>
+* Russian
+
 Bilingual proficiency
 
 ## Education
