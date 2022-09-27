@@ -1,16 +1,6 @@
----
-title: Yulia Kuznietsova, Technical Writer
+<img src="images/yuliK_profile.jpg" alt="My Pretty Face.jpg" style="width: 100px; float: right; padding-left: 15px;">
 
----
-<a href="/images/yuliK_profile.jpg"><img src="/images/yuliK_profile.jpg" alt="My Pretty Face.jpg" style="width: 150px; float: right; padding-left: 15px;"></a>
-
-# Julia Kuzńecowa
-
-Technical Writer, Technical Communicator, DocOps
-
-<a href="https://www.linkedin.com/in/yulios/">Lnkdn URL</a>
-
-<script language="JavaScript">user = 'yuli.kuznietsova';site = 'gmail.com';document.write('<a href=\"mailto:' + user + '@' + site + '\">');document.write('Email me: ' + user + '@' + site + '</a>');</script>
+<a href="https://www.linkedin.com/in/yulios/">Lnkdn</a> || <a href="https://github.com/YuliyaLios">GitHub</a> || <script language="JavaScript">user = 'yuli.kuznietsova';site = 'gmail.com';document.write('Email me: ');document.write('<a href=\"mailto:' + user + '@' + site + '\">');document.write(user + '@' + site + '</a>');</script>
 
 ## Currently
 
@@ -18,13 +8,15 @@ A technical writer (user guides, developer docs, API specifications) with the en
 
 ## Skills
 
-Manuals, API documentation, How-To's, User's Guide, Release Notes, Software Documentation, HTML, CSS, JavaScript, Kanban, XML, Markdown, Jira, Confluence, Git, Postman/Swagger, JSON, communication skills, analytical skills, ability to learn quickly.
+> Manuals, API documentation, How-To's, User's Guide, Release Notes, Software Documentation
+
+> HTML, CSS, JavaScript, Kanban, XML, Markdown, Jira, Confluence, Git, Postman/Swagger, JSON
 
 ## Work Experience
 
 ### <img src="images/corefy_alternative_mark.svg" alt="Corefy logo" style="width: 25px; float: left; padding-right: 5px;"> Technical Writer, <a href="https://corefy.com/">Corefy</a>
 
-> Aug 2019 – Present
+> Aug 2019 – Present (*3 yrs*)
 
 * Write, structure and organize internal documentation and user guides.
 * Analyse existing and suggest potential documentation content.
@@ -32,9 +24,9 @@ Manuals, API documentation, How-To's, User's Guide, Release Notes, Software Docu
 * Edit and proofread existing project documentation.
 * As part of R&D team, provide manual testing and software architecture documenting.
 
-### <img src="images/images/vintage-32x32.png" alt="Vintage logo" style="width: 25px; float: left; padding-right: 5px;"> Head Of Content, <a href="http://vintage.agency/">Vintage Web Production</a>
+### <img src="images/vintage-32x32.png" alt="Vintage logo" style="width: 25px; float: left; padding-right: 5px;"> Head Of Content, <a href="http://vintage.agency/">Vintage Web Production</a>
 
-> Sep 2017 – Jul 2019 (1 yr 11 mos)
+> Sep 2017 – Jul 2019 (*1 yr 11 mos*)
 
 * Managing, editing, proofreading content.
 * Interface localisation.
@@ -46,19 +38,46 @@ Manuals, API documentation, How-To's, User's Guide, Release Notes, Software Docu
 
 ### Website Administrator, Content Manager, & HTML Coder, budcenter.net
 
-> Aug 2016 – Sep 2017 (1 yr 2 mos)
+> Aug 2016 – Sep 2017 (*1 yr 2 mos*)
 
-* All-in-1, and system administration, besides.
+* All-in-1, and system administration besides.
 
 ### Engineer Estimator
 
-> Sep 2009 – Nov 2012 (3 yrs 3 mos)
-> & Sep 2004 – Apr 2006 (1 yr 8 mos)
+> Sep 2009 – Nov 2012 (*3 yrs 3 mos*) & Sep 2004 – Apr 2006 (*1 yr 8 mos*)
 
 * Wrote and checked expertise reports.
 * Calculated and verified civil building projects' estimates.
 * Assessed the state of buildings and constructions.
 * Provided consultation about existing regulatory and technical documentation.
+
+## Volunteering for
+
+### <img src="images/WWCKyiv.jpg" alt="WWCode logo" style="width: 25px; float: left; padding-right: 5px;"> WWCode Kyiv
+
+> 2019 – Present
+
+Education, Inspiring and Supporting Women to excel in technology careers
+
+### Kherson New Generation (NGO)
+
+> 2000 – 2005
+
+Children's Leadership Mentoring, Civil Rights and Social Action
+
+## Languages
+
+* English</br>
+Professional proficiency
+
+* Polish</br>
+Elementary proficiency (*but learning right now*)
+
+* Ukrainian</br>
+Native proficiency
+
+* Russian</br>
+Bilingual proficiency
 
 ## Education
 
