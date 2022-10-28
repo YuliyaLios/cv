@@ -1,5 +1,3 @@
-<img align='right' src='images/octocat-1666485654973.png' alt="OctoCat Me" width='350'>
-
 ## TL;DR
 
 | | |
@@ -15,8 +13,11 @@
 | **Interested in** | Docs-as-code approach, Web Accessibility, Diversity |
 | **Preferences** | Startups, Software houses |
 | **Social** | <a href="https://www.linkedin.com/in/yulios/">Lnkdn</a> // <a href="https://github.com/YuliyaLios">GitHub Profile</a> |
+| **Download** | [My CV.pdf](CV-TechWriter-JuliaKuzniecowa.pdf) |
 
-<img alt="Most Used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaLios&layout=compact&theme=radical" />
+<img align='right' src='images/octocat-1666485654973.png' alt="OctoCat Me" width='300'>
+
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaLios&layout=compact&theme=radical" />
 
 ## Work Experience
 
