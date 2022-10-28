@@ -13,7 +13,7 @@
 | **Interested in** | Docs-as-code approach, Web Accessibility, Diversity |
 | **Preferences** | Startups, Software houses |
 | **Social** | <a href="https://www.linkedin.com/in/yulios/">Lnkdn</a> // <a href="https://github.com/YuliyaLios">GitHub Profile</a> |
-| **Download** | [My CV.pdf](CV-TechWriter-JuliaKuzniecowa.pdf) |
+| **Download** | [My prettified CV.pdf](CV-TechWriter-JuliaKuzniecowa.pdf) |
 
 <img align='right' src='images/octocat-1666485654973.png' alt="OctoCat Me" width='300'>
 
