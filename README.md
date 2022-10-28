@@ -1,6 +1,6 @@
-# Julia Kuzńecowa
+# Julia Kuzniecowa
 
-Technical Writer, Technical Communicator, DocOps
+Technical Writer, Technical Communicator, 'DocOps'
 
 ## Currently
 

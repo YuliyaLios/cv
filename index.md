@@ -1,4 +1,5 @@
-## TL;DR
+# TL;DR
+<img align='right' src='images/octocat-1666485654973.png' alt="OctoCat Me" width='200'>
 
 | | |
 |---|---|
@@ -15,15 +16,13 @@
 | **Social** | <a href="https://www.linkedin.com/in/yulios/">Lnkdn</a> // <a href="https://github.com/YuliyaLios">GitHub Profile</a> |
 | **Download** | [My prettified CV.pdf](CV-TechWriter-JuliaKuzniecowa.pdf) |
 
-<img align='right' src='images/octocat-1666485654973.png' alt="OctoCat Me" width='300'>
-
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuliyaLios&layout=compact&theme=radical" />
 
 ## Work Experience
 
 ### <img src="images/corefy_alternative_mark.svg" alt="Corefy logo" style="width: 25px; float: left; padding-right: 5px;"> Technical Writer, <a href="https://corefy.com/">Corefy</a>
 
-> Aug 2019 – Present (*3 yrs*)
+| Aug 2019 – Present (*3 yrs*)
 
 * Developed and maintained documentation for external (clients) and internal (developers) users.
 * Studied drawings, specifications, mockups and product samples to integrate and delineate technology, operating procedure, production sequence and detail. 
@@ -34,7 +33,7 @@
 
 ### <img src="images/vintage-32x32.png" alt="Vintage logo" style="width: 25px; float: left; padding-right: 5px;"> Head Of Content, <a href="http://vintage.agency/">Vintage Web Production</a>
 
-> Sep 2017 – Jul 2019 (*1 yr 11 mos*)
+| Sep 2017 – Jul 2019 (*1 yr 11 mos*)
 
 * Reviewed and updated web pages' content. 
 * Administered Internet and intranet infrastructure, including Web, file and mail servers. 
@@ -46,7 +45,7 @@
 
 ### Website Administrator, Content Manager, & HTML Coder, budcenter.net
 
-> Aug 2016 – Sep 2017 (*1 yr 2 mos*)
+| Aug 2016 – Sep 2017 (*1 yr 2 mos*)
 
 *  Administered Internet and intranet infrastructure, including Web, file and mail servers. 
 * Reviewed or updated web pages' content. Tested issues such as system integration, performance and security on a regular schedule and after major program modifications. 
@@ -56,7 +55,7 @@
 
 ### Engineer Estimator
 
-> Sep 2009 – Nov 2012 & Sep 2004 – Apr 2006 (*more than 5 yrs*)
+| Sep 2009 – Nov 2012 & Sep 2004 – Apr 2006 (*more than 5 yrs*)
 
 * Wrote and checked construction expertise reports.
 * Calculated and verified civil building projects' estimates.
@@ -67,19 +66,19 @@
 
 ### Girls.js Poland 
 
-> 2022.10 - Present
+| 2022.10 - Present
 
 Co-organizer JavaScript programming workshops introducing women to the IT field.
 
 ### <img src="images/WWCKyiv.jpg" alt="WWCode logo" style="width: 25px; float: left; padding-right: 5px;"> WWCode Kyiv
 
-> 2019 – Present
+| 2019 – Present
 
 Education, Inspiring and Supporting Women to excel in technology careers
 
 ### Kherson New Generation (NGO)
 
-> 2000 – 2005
+| 2000 – 2005
 
 Children's Leadership Mentoring, Civil Rights and Social Action
 
@@ -87,12 +86,12 @@ Children's Leadership Mentoring, Civil Rights and Social Action
 
 ### Full Stack Web Development, freeCodeCamp
 
-> 2016
+| 2016
 
 ### Web Development, Go FrontEnd program from <a href="https://goit.ua/">GoIT</a>
 
-> 2016
+| 2016
 
 ### Industrial and Civil Engineering, Kherson State Agrarian University
 
-> 2001-2009
+| 2001-2009
