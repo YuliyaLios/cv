@@ -20,9 +20,17 @@
 
 ## Work Experience
 
+### <img src="images/sendpulse-logo-symbol.png" alt="SendPulse logo" style="width: 25px; float: left; padding-right: 5px;"> Technical Writer, <a href="https://sendpulse.com/">SendPulse</a>
+
+| Dec 2022 – Present (*7 mos*)
+
+* Developed and maintained Knowledge Base and API documentation.
+* Interviewed production and engineering personnel to become familiar with product technologies and production methods.
+* Provided manual testing and created illustrations for user guides.
+
 ### <img src="images/corefy_alternative_mark.svg" alt="Corefy logo" style="width: 25px; float: left; padding-right: 5px;"> Technical Writer, <a href="https://corefy.com/">Corefy</a>
 
-| Aug 2019 – Present (*3 yrs*)
+| Aug 2019 – Nov 2022 (*3 yrs*)
 
 * Developed and maintained documentation for external (clients) and internal (developers) users.
 * Studied drawings, specifications, mockups and product samples to integrate and delineate technology, operating procedure, production sequence and detail. 
